@@ -8,7 +8,7 @@ See [`src/redis-brain.coffee`](src/redis-brain.coffee) for full documentation.
 
 In hubot project repo, run:
 
-`npm install hubot-redis-brain-docker-docker --save`
+`npm install hubot-redis-brain-docker --save`
 
 Then add **hubot-redis-brain-docker** to your `external-scripts.json`:
 
